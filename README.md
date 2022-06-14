@@ -6,9 +6,9 @@ data collected from: https://ourworldindata.org/co2-emissions
 
 # Problem Statement
 
-1)show the realtionship between different sources of CO2 and the correlation between Co2 and different sources gdp and population
-2)show the correlation between total ghg emmision and different ghg gas such as methane co2 ,nitrous oxide, emmission and gdp and population of coountries
-3)visualize the co2 emmision of by different continent and world over the years
-4)show in a tabular format co2 emmision of by different continent and world in any particular year
-5)visualoze the co2 mmision by different income group country
-6)Co2 emmision by different country and their gdp over the years.
+- show the realtionship between different sources of CO2 and the correlation between Co2 and different sources gdp and population
+- show the correlation between total ghg emmision and different ghg gas such as methane co2 ,nitrous oxide, emmission and gdp and population of coountries
+- visualize the co2 emmision of by different continent and world over the years
+- show in a tabular format co2 emmision of by different continent and world in any particular year
+- visualoze the co2 mmision by different income group country
+- Co2 emmision by different country and their gdp over the years.
